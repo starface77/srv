@@ -2,10 +2,10 @@
     {
       "color": "000000",
       "dopname": "",
-      "x2": true,
-      "maxonline": 100,
+      "x2": "true",
+      "maxonline": "100",
       "name": "RED (TEST)",
-      "online": 100,
+      "online": "100",
       "host": "141.95.190.143",
       "port": 1253
     }
